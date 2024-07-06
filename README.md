@@ -65,8 +65,8 @@ This project aims to provide a decentralized application (dApp) to identify and 
 
 ## Contributors
 - Md. Robayed Molla
-- contact:[https://github.com/Robayed110]
+- contact:[ https://github.com/Robayed110 ]
 - Md. Raduan Islam Rian
-- contact:[https://github.com/ExpC0]
+- contact:[ https://github.com/ExpC0 ]
 
 
