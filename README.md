@@ -4,7 +4,7 @@ Blockchain based system project
 Here is the complete README file content in one block:
 
 1.```markdown
-# Fake Product Identification
+# Fake Product Detection
 
 ## Overview
 This project aims to provide a decentralized application (dApp) to identify and verify the authenticity of products using blockchain technology.
