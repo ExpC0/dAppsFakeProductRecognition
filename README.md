@@ -19,10 +19,7 @@ This project aims to provide a decentralized application (dApp) to identify and 
 
 ## Setup Instructions
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/Robayed110/Fake-Product-Identification.git
-   ```
+
 
 2. **Navigate to the Project Directory**
    Open your terminal in the project folder and install the necessary node modules:
@@ -68,16 +65,8 @@ This project aims to provide a decentralized application (dApp) to identify and 
 
 ## Contributors
 - Md. Robayed Molla
+- contact:{https://github.com/Robayed110}
 - Md. Raduan Islam Rian
+- contact:{https://github.com/ExpC0}
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contributing
-Contributions are welcome! Please read the [CONTRIBUTING](CONTRIBUTING.md) file for more information.
-
-## Contact
-For questions or inquiries, please contact the project maintainer at [your-email@example.com].
-```
-
-You can save this content directly into your README.md file for your GitHub repository.
